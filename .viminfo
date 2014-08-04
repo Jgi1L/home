@@ -16,6 +16,7 @@ $
 # Command Line History (newest to oldest):
 :q
 :w
+:CtrlP
 :q!
 :tabedit fuck.html.twig
 :closetab
@@ -45,9 +46,9 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	 %
-""1	LINE	0
+""0	CHAR	0
+	prompt
+"1	LINE	0
 	lalalalalalalalalalalalala
 "2	LINE	0
 	Hell yeah this is a new file wwehre im going to write some shit fo you 
@@ -86,36 +87,47 @@ $
 "9	LINE	0
 	let g:solarized_termcolors=256
 "-	CHAR	0
-	 %
+	prompt
 
 # File marks:
-'0  15  30  ~/.vimrc
-'1  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
-'2  1  0  ~/.vimrc
-'3  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
-'4  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
-'5  14  3  ~/.vimrc
-'6  16  0  ~/.vimrc
-'7  16  49  ~/.vimrc
-'8  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
-'9  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
+'0  1  0  ~/src_code/test.php
+'1  20  24  ~/.vimrc
+'2  12  0  /var/www/html/symfony/httpdocs/composer.json
+'3  1  0  ~/.vimrc
+'4  1  0  ~/.vim/autoload/pathogen.vim
+'5  7  7  ~/.vimrc
+'6  43  26  ~/.bashrc
+'7  1  0  ~/.gitignore
+'8  2  0  ~/.gitconfig
+'9  1  0  ~/.git/index
 
 # Jumplist (newest first):
--'  15  30  ~/.vimrc
--'  13  0  ~/.vimrc
+-'  1  0  ~/src_code/test.php
 -'  1  0  ~/.vimrc
--'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
+-'  20  24  ~/.vimrc
+-'  12  0  /var/www/html/symfony/httpdocs/composer.json
+-'  13  2  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  1  0  ~/.vim/autoload/pathogen.vim
+-'  7  7  ~/.vimrc
+-'  43  26  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  0  ~/.gitignore
+-'  2  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.git/index
+-'  17  30  ~/.vimrc
+-'  15  0  ~/.vimrc
+-'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
 -'  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  10  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  9  4  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  12  4  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
--'  13  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
--'  14  3  ~/.vimrc
--'  16  18  ~/.vimrc
--'  17  10  ~/.vimrc
--'  9  0  ~/.vimrc
+-'  16  3  ~/.vimrc
+-'  21  18  ~/.vimrc
+-'  22  10  ~/.vimrc
+-'  11  0  ~/.vimrc
 -'  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
 -'  1  0  /var/www/html/symfony/httpdocs/src/.htaccess
 -'  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
@@ -125,15 +137,14 @@ $
 -'  1  0  /var/www/html/symfony/httpdocs/composer.json
 -'  1  12  ~/.composer/.htaccess
 -'  2  34  ~/.composer/.htaccess
--'  1  0  ~/src_code/test.php
 -'  1  1  /var/www/html/symfony/httpdocs/.gitignore
 -'  1  0  /var/www/html/symfony/httpdocs/app/config/security.yml
 -'  1  7  /var/www/html/symfony/httpdocs/app/config/config.yml
 -'  60  0  /var/www/html/symfony/httpdocs/composer.json
 -'  6  0  ~/src_code/test.php
 -'  7  0  ~/src_code/test.php
--'  7  0  ~/.vimrc
--'  4  0  ~/.vimrc
+-'  9  0  ~/.vimrc
+-'  5  0  ~/.vimrc
 -'  531  78  ~/.vim/vim_strace
 -'  261  20  ~/.vim/vim_strace
 -'  253  20  ~/.vim/vim_strace
@@ -187,42 +198,183 @@ $
 -'  96  0  /etc/apache2/apache2.conf
 -'  7  0  /etc/apache2/sites-enabled/test.conf
 -'  67  0  /etc/vsftpd.conf
--'  1  0  /etc/group
--'  3  23  /etc/hosts
--'  1  0  /etc/hosts
--'  14  44  /etc/apache2/sites-available/test.conf
--'  1  0  /etc/apache2/sites-available/test.conf
--'  8  0  /etc/apache2/sites-available/test.conf
--'  2  0  /etc/apache2/sites-available/test.conf
--'  9  0  /etc/apache2/sites-enabled/000-default.conf
--'  136  0  /etc/apache2/apache2.conf
--'  15  0  /etc/apache2/sites-available/test.conf
--'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 
 # History of marks within files (newest to oldest):
 
 > ~/.vimrc
-	"	15	30
-	^	15	31
-	.	15	30
+	"	1	0
+	^	20	25
+	.	20	24
 	+	2	0
-	+	17	0
-	+	17	0
-	+	7	0
-	+	7	0
-	+	16	49
+	+	22	0
+	+	22	0
+	+	9	0
+	+	9	0
+	+	21	49
+	+	21	0
+	+	22	0
+	+	21	0
+	+	16	19
+	+	16	8
+	+	16	12
+	+	21	0
 	+	16	0
-	+	17	0
+	+	21	0
 	+	16	0
-	+	14	19
-	+	14	8
-	+	14	12
-	+	16	0
-	+	14	0
-	+	16	0
-	+	14	0
-	+	15	30
-	i	14	0
+	+	17	30
+	+	4	24
+	+	6	24
+	+	20	24
+	i	16	0
+
+> ~/ControlP
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/src_code/test.php
+	"	1	0
+	^	6	1
+	.	6	1
+	+	10	2
+	+	2	0
+	+	6	1
+
+> /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+	"	13	2
+	.	11	0
+	+	13	0
+	+	9	0
+	+	9	0
+	+	11	0
+
+> /var/www/html/symfony/httpdocs/app/Resources/views/ControlP
+	"	10	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+
+> /var/www/html/symfony/httpdocs/composer.json
+	"	12	0
+	^	20	55
+	.	20	54
+	+	21	41
+	+	20	54
+
+> ~/.vim/autoload/pathogen.vim
+	"	1	0
+
+> ~/.bashrc
+	"	43	26
+	.	43	0
+	+	43	0
+
+> ~/.gitignore
+	"	1	0
+
+> ~/.gitconfig
+	"	2	0
+
+> ~/.git/index
+	"	1	0
 
 > /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
 	"	1	0
@@ -235,14 +387,6 @@ $
 	+	1	16
 	+	1	0
 
-> /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
-	"	1	0
-	.	11	0
-	+	13	0
-	+	9	0
-	+	9	0
-	+	11	0
-
 > /var/www/html/symfony/httpdocs/src/.htaccess
 	"	7	0
 
@@ -254,13 +398,6 @@ $
 	+	20	0
 	+	9	0
 
-> /var/www/html/symfony/httpdocs/composer.json
-	"	20	54
-	^	20	55
-	.	20	54
-	+	21	41
-	+	20	54
-
 > ~/.composer/.htaccess
 	"	1	12
 	^	1	30
@@ -268,14 +405,6 @@ $
 	+	1	0
 	+	2	0
 	+	1	0
-
-> ~/src_code/test.php
-	"	1	0
-	^	6	1
-	.	6	1
-	+	10	2
-	+	2	0
-	+	6	1
 
 > /var/www/html/symfony/httpdocs/.gitignore
 	"	1	1

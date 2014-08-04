@@ -1,0 +1,5 @@
+/home/jake/src_code/test.php
+/home/jake/.vimrc
+/var/www/html/symfony/httpdocs/composer.json
+/var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+/home/jake/.vim/autoload/pathogen.vim
