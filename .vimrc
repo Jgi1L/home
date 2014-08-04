@@ -12,3 +12,4 @@ set number
 
 set hidden
 imap jk <Esc>        
+inoremap <c-s> <Esc>:Update<CR>

@@ -15,11 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :q
+:w
 :q!
 :tabedit fuck.html.twig
 :closetab
 :vsp fuck.html.twig
-:w
 :tabedit fuck.html.twig/
 :mkdir fuck.html.twig
 :sudo mkdir fuck.html.twig
@@ -89,20 +89,22 @@ $
 	 %
 
 # File marks:
-'0  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
-'1  1  0  ~/.vimrc
-'2  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
-'3  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
-'4  14  3  ~/.vimrc
-'5  15  0  ~/.vimrc
-'6  15  49  ~/.vimrc
-'7  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
-'8  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
-'9  20  54  /var/www/html/symfony/httpdocs/composer.json
+'0  15  30  ~/.vimrc
+'1  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
+'2  1  0  ~/.vimrc
+'3  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+'4  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+'5  14  3  ~/.vimrc
+'6  16  0  ~/.vimrc
+'7  16  49  ~/.vimrc
+'8  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
+'9  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
 
 # Jumplist (newest first):
--'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
+-'  15  30  ~/.vimrc
+-'  13  0  ~/.vimrc
 -'  1  0  ~/.vimrc
+-'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
 -'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
@@ -111,8 +113,8 @@ $
 -'  12  4  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  13  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 -'  14  3  ~/.vimrc
--'  15  18  ~/.vimrc
--'  16  10  ~/.vimrc
+-'  16  18  ~/.vimrc
+-'  17  10  ~/.vimrc
 -'  9  0  ~/.vimrc
 -'  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
 -'  1  0  /var/www/html/symfony/httpdocs/src/.htaccess
@@ -130,7 +132,6 @@ $
 -'  60  0  /var/www/html/symfony/httpdocs/composer.json
 -'  6  0  ~/src_code/test.php
 -'  7  0  ~/src_code/test.php
--'  13  10  ~/.vimrc
 -'  7  0  ~/.vimrc
 -'  4  0  ~/.vimrc
 -'  531  78  ~/.vim/vim_strace
@@ -200,6 +201,29 @@ $
 
 # History of marks within files (newest to oldest):
 
+> ~/.vimrc
+	"	15	30
+	^	15	31
+	.	15	30
+	+	2	0
+	+	17	0
+	+	17	0
+	+	7	0
+	+	7	0
+	+	16	49
+	+	16	0
+	+	17	0
+	+	16	0
+	+	14	19
+	+	14	8
+	+	14	12
+	+	16	0
+	+	14	0
+	+	16	0
+	+	14	0
+	+	15	30
+	i	14	0
+
 > /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
 	"	1	0
 	.	1	0
@@ -210,27 +234,6 @@ $
 	+	1	4112
 	+	1	16
 	+	1	0
-
-> ~/.vimrc
-	"	1	0
-	.	14	0
-	+	2	0
-	+	16	0
-	+	16	0
-	+	7	0
-	+	7	0
-	+	15	49
-	+	15	0
-	+	16	0
-	+	15	0
-	+	14	19
-	+	14	8
-	+	14	12
-	+	15	0
-	+	14	0
-	+	15	0
-	+	14	0
-	i	14	0
 
 > /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
 	"	1	0
