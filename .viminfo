@@ -16,8 +16,9 @@ $
 # Command Line History (newest to oldest):
 :q
 :w
-:CtrlP
 :q!
+:help surround
+:CtrlP
 :tabedit fuck.html.twig
 :closetab
 :vsp fuck.html.twig
@@ -33,7 +34,6 @@ $
 :w .vimrc
 :new
 :version
-:wq!
 
 # Search String History (newest to oldest):
 ?/.vimrc
@@ -41,69 +41,59 @@ $
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
+@p
 @ads
 
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
-	prompt
-"1	LINE	0
-	lalalalalalalalalalalalala
-"2	LINE	0
-	Hell yeah this is a new file wwehre im going to write some shit fo you 
-"3	LINE	0
-	" ============================================================================
-	" Netrw Directory Listing                                        (netrw v149)
-	"   /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
-	"   Sorted by      name
-	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
-	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
-	" ============================================================================
-	../
-	./
-"4	LINE	0
-	    <body>
-	    </body>
-"5	LINE	0
-	        {% block body %}{% endblock %}
-	        {% block javascripts %}{% endblock %}
-"6	LINE	0
-	imap <Caps-Lockd> <Esc>
-"7	LINE	0
-	xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'
-"8	CHAR	0
+"0	LINE	0
 	
-	        $bundles = array(
-	            new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
-	            new Symfony\Bundle\SecurityBundle\SecurityBundle(),
-	            new Symfony\Bundle\TwigBundle\TwigBundle(),
-	            new Symfony\Bundle\MonologBundle\MonologBundle(),
-	            new Symfony\Bundle\SwiftmailerBundle\SwiftmailerBundle(),
-	            new Symfony\Bundle\AsseticBundle\AsseticBundle(),
-	            new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
-	            new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-		    new Knp\Bundle\SnappyBundle\KnpSnappyBundle(),
+""1	CHAR	0
+	
+	Jacob Gilchriest
+	Fuck this shit man
+	I swear to god I'm going to kill your ass
+"2	LINE	0
+	Jacob Gilchriest
+	Fuck this shit man
+	I swear to god I'm going to kill your ass
+"3	LINE	0
+	Jacob Gilchriest
+	Fuck this shit man
+	I swear to god I'm going to kill your ass
+"4	LINE	0
+	<p>Hello World</p>
+"5	LINE	0
+	( fuck this shit nigga )
+"6	LINE	0
+	( fuck this shit nigga )
+"7	LINE	0
+	"fuck this shit nigga"
+"8	LINE	0
+	"fuck this shit nigga"
 "9	LINE	0
-	let g:solarized_termcolors=256
+	"fuck this shit nigga"
 "-	CHAR	0
-	prompt
+	" "
 
 # File marks:
-'0  1  0  ~/src_code/test.php
-'1  20  24  ~/.vimrc
-'2  12  0  /var/www/html/symfony/httpdocs/composer.json
-'3  1  0  ~/.vimrc
-'4  1  0  ~/.vim/autoload/pathogen.vim
-'5  7  7  ~/.vimrc
-'6  43  26  ~/.bashrc
-'7  1  0  ~/.gitignore
-'8  2  0  ~/.gitconfig
-'9  1  0  ~/.git/index
+'0  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
+'1  1  0  ~/src_code/test.txt
+'2  1  0  ~/.vimrc
+'3  1  0  ~/src_code/test.php
+'4  20  24  ~/.vimrc
+'5  12  0  /var/www/html/symfony/httpdocs/composer.json
+'6  1  0  ~/.vim/autoload/pathogen.vim
+'7  7  7  ~/.vimrc
+'8  43  26  ~/.bashrc
+'9  1  0  ~/.gitignore
 
 # Jumplist (newest first):
--'  1  0  ~/src_code/test.php
+-'  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
+-'  1  0  ~/src_code/test.txt
 -'  1  0  ~/.vimrc
+-'  1  0  ~/src_code/test.php
 -'  20  24  ~/.vimrc
 -'  12  0  /var/www/html/symfony/httpdocs/composer.json
 -'  13  2  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
@@ -160,46 +150,91 @@ $
 -'  14  0  ~/.vim/.vimrc
 -'  10  0  /etc/vim/vimrc
 -'  1  0  /etc/vim/vimrc
--'  8  0  /etc/vim/vimrc
--'  11  0  /etc/vim/vimrc
--'  12  4  /etc/vim/vimrc
--'  1  0  /etc/vim/autoload/pathogen.vim
--'  7  0  /etc/vim/vimrc
--'  3  20  ~/.vim/.vimrc
--'  55  0  /etc/vim/bundle/vim-colors-solarized/autoload/togglebg.vim
--'  1  0  /etc/vim/bundle/vim-colors-solarized/autoload/togglebg.vim
--'  3  0  /etc/vim/vimrc
--'  9  20  /etc/vim/vimrc
--'  54  0  /usr/share/vim/vimrc
--'  1  0  /usr/share/vim/vimrc
--'  29  0  /etc/vsftpd.conf
--'  1  0  /etc/vsftpd.conf
--'  20  41  /var/www/html/index.html
--'  1  0  /var/www/html/index.html
--'  1  0  /var/www/html/MathJax/jax/output/HTML-CSS/config.js
--'  11  44  /var/www/html/index.html
--'  18  0  /MathJax/MathJax.js
--'  1  0  /MathJax/MathJax.js
--'  14  55  /var/www/html/index.html
--'  3  19  /var/www/html/index.html
--'  13  8  /var/www/html/index.html
--'  15  112  /var/www/html/index.html
--'  124  0  /MathJax/config/default.js
--'  1  0  /MathJax/config/default.js
--'  14  52  /etc/apache2/sites-enabled/test.conf
--'  1  0  /etc/apache2/sites-enabled/test.conf
--'  2  0  /etc/apache2/sites-enabled/000-default.conf
--'  1  0  /etc/apache2/sites-enabled/000-default.conf
--'  13  0  /etc/apache2/sites-enabled/test.conf
--'  128  0  /etc/apache2/apache2.conf
--'  1  0  /etc/apache2/apache2.conf
--'  47  0  /etc/apache2/envvars
--'  1  0  /etc/apache2/envvars
--'  96  0  /etc/apache2/apache2.conf
--'  7  0  /etc/apache2/sites-enabled/test.conf
--'  67  0  /etc/vsftpd.conf
+-'  1  0  ~/src_code/test.txt
+-'  1  0  ~/.vimrc
+-'  1  0  ~/src_code/test.php
+-'  20  24  ~/.vimrc
+-'  12  0  /var/www/html/symfony/httpdocs/composer.json
+-'  13  2  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  1  0  ~/.vim/autoload/pathogen.vim
+-'  7  7  ~/.vimrc
+-'  43  26  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  1  0  ~/.gitignore
+-'  2  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.git/index
+-'  17  30  ~/.vimrc
+-'  15  0  ~/.vimrc
+-'  1  0  /var/www/html/symfony/httpdocs/app/Resources/views/fuck.html.twig
+-'  5  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  11  29  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  10  0  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  9  4  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  12  4  /var/www/html/symfony/httpdocs/app/Resources/views/base.html.twig
+-'  16  3  ~/.vimrc
+-'  21  18  ~/.vimrc
+-'  22  10  ~/.vimrc
+-'  11  0  ~/.vimrc
+-'  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
+-'  1  0  /var/www/html/symfony/httpdocs/src/.htaccess
+-'  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
+-'  20  0  /var/www/html/symfony/httpdocs/app/AppKernel.php
+-'  1  0  /var/www/html/symfony/httpdocs/app/AppKernel.php
+-'  20  54  /var/www/html/symfony/httpdocs/composer.json
+-'  1  0  /var/www/html/symfony/httpdocs/composer.json
+-'  1  12  ~/.composer/.htaccess
+-'  2  34  ~/.composer/.htaccess
+-'  1  1  /var/www/html/symfony/httpdocs/.gitignore
+-'  1  0  /var/www/html/symfony/httpdocs/app/config/security.yml
 
 # History of marks within files (newest to oldest):
+
+> /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
+	"	1	24
+	^	1	25
+	.	1	25
+	+	1	25
+
+> ~/src_code/test.txt
+	"	1	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	20
+	+	1	0
+	+	1	0
+	+	1	15
+	+	1	17
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	0
+	+	2	0
 
 > ~/.vimrc
 	"	1	0
