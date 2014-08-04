@@ -15,8 +15,8 @@ $
 
 # Command Line History (newest to oldest):
 :q
-:w
 :q!
+:w
 :help surround
 :CtrlP
 :tabedit fuck.html.twig
@@ -47,9 +47,12 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
+""0	CHAR	0
 	
-""1	CHAR	0
+	Jacob Gilchriest
+	Fuck this shit man
+	I swear to god I'm going to kill your ass
+"1	CHAR	0
 	
 	Jacob Gilchriest
 	Fuck this shit man
@@ -78,20 +81,29 @@ $
 	" "
 
 # File marks:
-'0  4  7  ~/.gitignore
-'1  6  6  ~/.gitignore
-'2  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
-'3  1  0  ~/src_code/test.txt
-'4  1  0  ~/.vimrc
-'5  1  0  ~/src_code/test.php
-'6  20  24  ~/.vimrc
-'7  12  0  /var/www/html/symfony/httpdocs/composer.json
-'8  1  0  ~/.vim/autoload/pathogen.vim
-'9  7  7  ~/.vimrc
+'0  1  0  ~/.gitignore
+'1  1  0  ~/.git/COMMIT_EDITMSG
+'2  8  0  ~/.git/config
+'3  2  0  ~/.git/refs/remotes/origin/master
+'4  1  0  ~/.git/refs/heads/master
+'5  1  0  ~/.git/info/exclude
+'6  1  0  ~/.git/HEAD
+'7  4  7  ~/.gitignore
+'8  6  6  ~/.gitignore
+'9  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 
 # Jumplist (newest first):
--'  4  7  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  8  0  ~/.git/config
+-'  1  0  ~/.git/config
+-'  2  0  ~/.git/refs/remotes/origin/master
+-'  1  0  ~/.git/refs/remotes/origin/master
+-'  1  0  ~/.git/refs/heads/master
+-'  1  0  ~/.git/info/exclude
+-'  1  0  ~/.git/HEAD
+-'  1  0  ~/.git
+-'  4  7  ~/.gitignore
 -'  6  6  ~/.gitignore
 -'  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 -'  1  0  ~/src_code/test.txt
@@ -178,26 +190,37 @@ $
 -'  21  18  ~/.vimrc
 -'  22  10  ~/.vimrc
 -'  11  0  ~/.vimrc
--'  7  0  /var/www/html/symfony/httpdocs/src/.htaccess
--'  1  0  /var/www/html/symfony/httpdocs/src/.htaccess
--'  9  4  /var/www/html/symfony/httpdocs/app/AppKernel.php
--'  20  0  /var/www/html/symfony/httpdocs/app/AppKernel.php
--'  1  0  /var/www/html/symfony/httpdocs/app/AppKernel.php
--'  20  54  /var/www/html/symfony/httpdocs/composer.json
--'  1  0  /var/www/html/symfony/httpdocs/composer.json
--'  1  12  ~/.composer/.htaccess
--'  2  34  ~/.composer/.htaccess
--'  1  1  /var/www/html/symfony/httpdocs/.gitignore
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	4	7
+	"	1	0
 	^	3	11
 	.	3	10
 	+	1	0
 	+	6	6
 	+	3	10
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/.git/config
+	"	8	0
+
+> ~/.git/refs/remotes/origin/master
+	"	2	0
+	^	2	1
+	.	2	1
+	+	2	1
+
+> ~/.git/refs/heads/master
+	"	1	0
+
+> ~/.git/info/exclude
+	"	1	0
+
+> ~/.git/HEAD
+	"	1	0
 
 > /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 	"	1	24

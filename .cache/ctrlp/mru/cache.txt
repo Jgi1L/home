@@ -1,4 +1,10 @@
 /home/jake/.gitignore
+/home/jake/.git/COMMIT_EDITMSG
+/home/jake/.git/config
+/home/jake/.git/refs/remotes/origin/master
+/home/jake/.git/refs/heads/master
+/home/jake/.git/info/exclude
+/home/jake/.git/HEAD
 /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 /home/jake/.vimrc
 /home/jake/src_code/test.php
