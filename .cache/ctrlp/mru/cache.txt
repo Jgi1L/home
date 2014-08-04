@@ -1,3 +1,4 @@
+/home/jake/.gitignore
 /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 /home/jake/.vimrc
 /home/jake/src_code/test.php

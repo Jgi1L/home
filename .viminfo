@@ -78,18 +78,21 @@ $
 	" "
 
 # File marks:
-'0  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
-'1  1  0  ~/src_code/test.txt
-'2  1  0  ~/.vimrc
-'3  1  0  ~/src_code/test.php
-'4  20  24  ~/.vimrc
-'5  12  0  /var/www/html/symfony/httpdocs/composer.json
-'6  1  0  ~/.vim/autoload/pathogen.vim
-'7  7  7  ~/.vimrc
-'8  43  26  ~/.bashrc
-'9  1  0  ~/.gitignore
+'0  4  7  ~/.gitignore
+'1  6  6  ~/.gitignore
+'2  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
+'3  1  0  ~/src_code/test.txt
+'4  1  0  ~/.vimrc
+'5  1  0  ~/src_code/test.php
+'6  20  24  ~/.vimrc
+'7  12  0  /var/www/html/symfony/httpdocs/composer.json
+'8  1  0  ~/.vim/autoload/pathogen.vim
+'9  7  7  ~/.vimrc
 
 # Jumplist (newest first):
+-'  4  7  ~/.gitignore
+-'  1  0  ~/.gitignore
+-'  6  6  ~/.gitignore
 -'  1  24  /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 -'  1  0  ~/src_code/test.txt
 -'  1  0  ~/.vimrc
@@ -102,7 +105,6 @@ $
 -'  7  7  ~/.vimrc
 -'  43  26  ~/.bashrc
 -'  1  0  ~/.bashrc
--'  1  0  ~/.gitignore
 -'  2  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/.git/index
@@ -161,7 +163,6 @@ $
 -'  7  7  ~/.vimrc
 -'  43  26  ~/.bashrc
 -'  1  0  ~/.bashrc
--'  1  0  ~/.gitignore
 -'  2  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/.git/index
@@ -187,9 +188,16 @@ $
 -'  1  12  ~/.composer/.htaccess
 -'  2  34  ~/.composer/.htaccess
 -'  1  1  /var/www/html/symfony/httpdocs/.gitignore
--'  1  0  /var/www/html/symfony/httpdocs/app/config/security.yml
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	4	7
+	^	3	11
+	.	3	10
+	+	1	0
+	+	6	6
+	+	3	10
 
 > /var/www/html/symfony/httpdocs/app/Resources/views/another.html.twig
 	"	1	24
@@ -401,9 +409,6 @@ $
 	"	43	26
 	.	43	0
 	+	43	0
-
-> ~/.gitignore
-	"	1	0
 
 > ~/.gitconfig
 	"	2	0
